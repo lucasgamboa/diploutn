@@ -1,0 +1,13 @@
+h1,h2,h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1,h2 {
+    text-align: center;
+}
+li,p {
+    color: blue;
+}
+
+img {
+    margin-left: 550px;
+}
