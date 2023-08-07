@@ -1,0 +1,45 @@
+#contenedor {
+    position: relative;
+    border: 2px solid;
+    background-color: white;
+    margin: 0 auto;
+    width: 500px;
+    height: 450px;
+}
+
+#rojo {
+    position: relative;
+    left: 350px;
+    top: -16px;
+    background-color: red;
+    margin: 1px solid;
+    width: 150px;
+    height: 150px;
+}
+
+#azul {
+    position: relative;
+    left: 350px;
+    top: -32px;
+    background-color: blue;
+    margin: 1px solid;
+    width: 150px;
+    height: 150px;
+}
+
+#verde {
+    position: relative;
+    left: 350px;
+    top: -48px;
+    background-color: green;
+    margin: 1px solid;
+    width: 150px;
+    height: 150px;
+}
+
+p {
+    color:white;
+    position: relative;
+    top: 65px;
+    left: 70px;
+}
